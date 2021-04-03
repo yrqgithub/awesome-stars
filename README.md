@@ -6,7 +6,7 @@
 
   - [C#](#c#)
   - [C++](#c++)
-  - [JavaScript](#javascript)
+  - [Go](#go)
   - [Kotlin](#kotlin)
   - [Others](#others)
   - [Python](#python)
@@ -23,7 +23,7 @@
 - [Celestia](https://github.com/CelestiaProject/Celestia) - Real-time 3D visualization of space.
 - [stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
 
-## JavaScript 
+## Go 
 
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 
