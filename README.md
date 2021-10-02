@@ -46,7 +46,7 @@
 
 ## Vim script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
