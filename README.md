@@ -15,7 +15,7 @@
 
 ## C# # 
 
-- [v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
+- [v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 
 ## C++ 
 
