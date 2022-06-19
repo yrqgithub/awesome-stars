@@ -9,6 +9,7 @@
   - [Common Workflow Language](#common-workflow-language)
   - [Go](#go)
   - [Kotlin](#kotlin)
+  - [Lua](#lua)
   - [Others](#others)
   - [Python](#python)
   - [TeX](#tex)
@@ -35,6 +36,10 @@
 
 - [orgzly-android](https://github.com/orgzly/orgzly-android) - Outliner for taking notes and managing to-do lists
 
+## Lua 
+
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+
 ## Others 
 
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
@@ -50,7 +55,6 @@
 
 ## Vim script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
