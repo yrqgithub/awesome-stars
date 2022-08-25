@@ -12,7 +12,7 @@
   - [Others](#others)
   - [Python](#python)
   - [TeX](#tex)
-  - [Vim script](#vim-script)
+  - [Vim Script](#vim-script)
 
 ## C# # 
 
@@ -49,7 +49,7 @@
 - [ElegantBook](https://github.com/ElegantLaTeX/ElegantBook) - Elegant LaTeX Template for Books
 - [lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn) - A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 
-## Vim script 
+## Vim Script 
 
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
