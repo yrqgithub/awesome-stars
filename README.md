@@ -34,6 +34,7 @@
 ## Others 
 
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 
 ## Python 
 
@@ -46,7 +47,6 @@
 
 ## Vim Script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
