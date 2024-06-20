@@ -34,7 +34,7 @@
 ## Others 
 
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 
 ## Python 
 
