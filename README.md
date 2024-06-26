@@ -34,7 +34,6 @@
 ## Others 
 
 - [gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 
 ## Python 
 
@@ -47,6 +46,7 @@
 
 ## Vim Script 
 
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
