@@ -46,7 +46,7 @@
 
 ## Vim Script 
 
-- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular configuration of Vim and Neovim
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 
